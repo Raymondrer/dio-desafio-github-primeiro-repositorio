@@ -1,0 +1,4 @@
+Gostaria de deixar em meu primeiro repositório GitHub, também o meu primeiro projeto solo em PHP.
+
+Sei que não é algo avançado, mas vai ser algo importante no futuro para mim, quando eu voltar até esse primeiro projeto de novo
+saberei exatamente por onde comecei.  
