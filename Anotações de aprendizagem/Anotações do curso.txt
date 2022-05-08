@@ -1,0 +1,7 @@
+Comandos importantes
+
+- git status
+- git commit -m "" (Pelo meu entendimento, avisa o que vai ser enviado até o git hub)
+- git push origin* main. (atualiza o repositório do GitHub)
+	     |
+ (pode ser mudado por outro nome, no entanto origin é o padrão)	
